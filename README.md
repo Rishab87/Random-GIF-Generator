@@ -4,7 +4,7 @@ This app generates random GIFs , it uses GIPHY API to fetch GIFs. It is made usi
 
 ## Preview
 
-![Project Image](./public/shoppingCart.png)
+![Project Image](./public/randomMeme.png)
 
 ### Commands To Run To Install Dependencies
 
